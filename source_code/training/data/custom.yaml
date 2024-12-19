@@ -1,0 +1,7 @@
+train: data/Dataset/train
+val: data/Dataset/test
+
+
+# Classes
+names:
+  0: face
